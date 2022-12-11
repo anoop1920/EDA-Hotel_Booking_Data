@@ -6,7 +6,7 @@ Objective of this analysis is perform EDA on the given dataset and draw useful c
 
 ## Dataset
 This is a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
-```
+
 - hotel: Name of hotel ( City or Resort)
 - is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
 - lead_time: time (in days) between booking transaction and actual arrival.
